@@ -1,0 +1,6 @@
+{
+  "name": "9. Sınıf Fizik Sınav Rehberi",
+  "description": "9. Sınıf Fizik Dersi 1. Dönem Sınavı Tam Çalışma Özeti, İnteraktif Simülasyonlar ve Sınav Hazırlık Platformu",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
